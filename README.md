@@ -11,7 +11,7 @@ The current understanding is, that video game sales have remained constant over 
 4.) How have their sales figures varied between geographic regions over time?
 
 
-## data Set
+## Data Set
 
 A dataset containing all  video game sales since 1980 wa used for this analysis
 This analysis was conducted using Microsoft Excel
